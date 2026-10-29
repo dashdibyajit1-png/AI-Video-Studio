@@ -1,0 +1,6 @@
+{
+  "name": "Project Video Studio",
+  "description": "Generate cinematic videos directly from project reports and sustainability documents with Veo 3 and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
